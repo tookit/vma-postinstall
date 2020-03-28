@@ -1,0 +1,19 @@
+{
+  "name": "vma-postinstall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tookit/vma-postinstall.git"
+  },
+  "author": "Michael wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tookit/vma-postinstall/issues"
+  },
+  "homepage": "https://github.com/tookit/vma-postinstall#readme"
+}
